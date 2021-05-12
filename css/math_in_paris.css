@@ -1,0 +1,80 @@
+.a{
+overflow-wrap: anywhere; /*normal, break-word, anywhere*/
+}
+
+
+.fanka{
+	height: 50px;
+}
+
+#pristha{
+	margin-top:    20px;
+	margin-bottom: 10px;
+	/*margin-right:  150px;
+	margin-left:   150px;*/
+	max-width: 1150px !important;
+	box-shadow: 0px 3px 9px 1px rgba(0, 0, 0, 0.06);
+
+}
+
+h1{
+	text-align:   center;
+	color:        DodgerBlue;
+	font-family: 'Siyam Rupali';
+  	src: url('fonts/SiyamRupali.eot?version=1.070');
+  	src: local('Siyam Rupali'), url('fonts/SiyamRupali.woff?version=1.070') format('woff'), url('fonts/SiyamRupali.ttf?version=1.070') format('truetype');
+  	font-style: normal;
+  	unicode-range: U+0980-09FF; //Bangla Range (source: http://www.unicode.org/charts/PDF/U0980.pdf‎‎)
+	padding:      10px;
+}
+
+hr { 
+ 	display:       block;
+	margin-top:    20px;
+ 	margin-bottom: 20px;
+	margin-left:   auto;
+	margin-right:  auto;
+ 	border-style:  inset;
+ 	border-width:  1px;
+	/*width:       80%;*/
+}
+
+dt{
+	margin: 0 0 3px 0;
+	font-weight: 505;
+	font-size: 16px;
+}
+
+dd{
+	margin: 0 0 8px 50px;
+	font-size: 14px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+#upor{
+	/*margin-left: 50px;*/
+}
+
+.anuchhed, #shironam{
+	color: tomato;
+}
+
+#shironam{
+	text-align: center;
+	padding-bottom: 20px;
+	color: tomato;
+}
+
+.pankti{
+margin-left: 50px;
+padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
