@@ -1,7 +1,23 @@
+*{
+	font-family: 'Cantarell', sans-serif;
+}
 .a{
 overflow-wrap: anywhere; /*normal, break-word, anywhere*/
 }
 
+#uporer_chhobi_image{
+	/*width: 1122px;*/
+	/*height: 450px;*/ 
+	alt    = Photo; 
+	/*display: block;*/
+	/*object-fit: cover;*/ /* none, cover, contain, fill */
+  	/*object-position: top;*/ /* Center the image within the element */
+  	width: 100%;
+	height: auto;
+  	max-height: 100%;
+  	margin-bottom: 1rem; 
+
+}
 
 .fanka{
 	height: 50px;
@@ -58,6 +74,7 @@ dd{
 
 .anuchhed, #shironam{
 	color: tomato;
+	font-family: 'Cantarell', sans-serif;
 }
 
 #shironam{
